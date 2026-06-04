@@ -1,0 +1,24 @@
+ls -lah /
+
+total 10
+drwxr-xr-x  20 root  wheel   640B  4 авг  2024 .
+drwxr-xr-x  20 root  wheel   640B  4 авг  2024 ..
+lrwxr-xr-x   1 root  admin    36B  4 авг  2024 .VolumeIcon.icns -> System/Volumes/Data/.VolumeIcon.icns
+----------   1 root  admin     0B  4 авг  2024 .file
+drwxr-xr-x   2 root  wheel    64B  4 авг  2024 .vol
+drwxrwxr-x  38 root  admin   1,2K 26 мар 08:52 Applications
+drwxr-xr-x  70 root  wheel   2,2K 30 авг  2024 Library
+drwxr-xr-x@ 10 root  wheel   320B  4 авг  2024 System
+drwxr-xr-x   5 root  admin   160B 30 авг  2024 Users
+drwxr-xr-x   3 root  wheel    96B 24 мар 19:43 Volumes
+drwxr-xr-x@ 39 root  wheel   1,2K  4 авг  2024 bin
+drwxr-xr-x   2 root  wheel    64B 25 апр  2021 cores
+dr-xr-xr-x   4 root  wheel   4,6K 15 мар 15:43 dev
+lrwxr-xr-x@  1 root  wheel    11B  4 авг  2024 etc -> private/etc
+lrwxr-xr-x   1 root  wheel    25B 15 мар 17:07 home -> /System/Volumes/Data/home
+drwxr-xr-x   3 root  wheel    96B 11 янв  2023 opt
+drwxr-xr-x   6 root  wheel   192B 15 мар 17:07 private
+drwxr-xr-x@ 64 root  wheel   2,0K  4 авг  2024 sbin
+lrwxr-xr-x@  1 root  wheel    11B  4 авг  2024 tmp -> private/tmp
+drwxr-xr-x@ 11 root  wheel   352B  4 авг  2024 usr
+lrwxr-xr-x@  1 root  wheel    11B  4 авг  2024 var -> private/var

@@ -1,0 +1,6 @@
+#!/bin/bash
+read -p "Введите массу тела (кг): " weight
+read -p "Введите рост (м): " height
+bmi=$(echo "scale=0; $weight / ($height * $height)" | bc)
+echo "Ваш индекс массы тела (ИМТ): $bmi"
+
