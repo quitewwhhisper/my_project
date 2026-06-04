@@ -1,0 +1,6 @@
+Process Log Report
+==================
+INFO: 3
+WARNING: 1
+ERROR: 1
+Total: 5

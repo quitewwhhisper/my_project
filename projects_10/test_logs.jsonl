@@ -1,0 +1,5 @@
+{"timestamp": "2024-01-01 10:00:00", "level": "INFO", "message": "Нагрев начат"}
+{"timestamp": "2024-01-01 10:05:00", "level": "INFO", "message": "Температура достигнута"}
+{"timestamp": "2024-01-01 10:10:00", "level": "WARNING", "message": "Колебания температуры"}
+{"timestamp": "2024-01-01 10:15:00", "level": "ERROR", "message": "Ошибка датчика"}
+{"timestamp": "2024-01-01 10:20:00", "level": "INFO", "message": "Охлаждение начато"}
